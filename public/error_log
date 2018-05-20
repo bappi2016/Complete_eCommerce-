@@ -1,0 +1,142 @@
+[07-May-2018 06:08:52 America/Chicago] PHP Warning:  session_start(): open(/tmp\sess_d47bbf8473e30998981f2ed40b3fcffa, O_RDWR) failed: No such file or directory (2) in C:\xampp\htdocs\projects\ecom\resources\config.php on line 6
+[07-May-2018 06:08:52 America/Chicago] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp) in C:\xampp\htdocs\projects\ecom\resources\config.php on line 6
+[07-May-2018 06:08:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\projects\ecom\resources\config.php:26
+Stack trace:
+#0 C:\xampp\htdocs\projects\ecom\public\index.php(1): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\ecom\resources\config.php on line 26
+[07-May-2018 06:09:01 America/Chicago] PHP Warning:  session_start(): open(/tmp\sess_d47bbf8473e30998981f2ed40b3fcffa, O_RDWR) failed: No such file or directory (2) in C:\xampp\htdocs\projects\ecom\resources\config.php on line 6
+[07-May-2018 06:09:01 America/Chicago] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp) in C:\xampp\htdocs\projects\ecom\resources\config.php on line 6
+[07-May-2018 06:09:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\projects\ecom\resources\config.php:26
+Stack trace:
+#0 C:\xampp\htdocs\projects\ecom\public\index.php(1): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\ecom\resources\config.php on line 26
+[07-May-2018 06:09:19 America/Chicago] PHP Warning:  session_start(): open(/tmp\sess_d47bbf8473e30998981f2ed40b3fcffa, O_RDWR) failed: No such file or directory (2) in C:\xampp\htdocs\projects\ecom\resources\config.php on line 6
+[07-May-2018 06:09:19 America/Chicago] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp) in C:\xampp\htdocs\projects\ecom\resources\config.php on line 6
+[07-May-2018 06:09:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\projects\ecom\resources\config.php:26
+Stack trace:
+#0 C:\xampp\htdocs\projects\ecom\public\index.php(1): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\ecom\resources\config.php on line 26
+[07-May-2018 06:11:03 America/Chicago] PHP Warning:  session_start(): open(/tmp\sess_d47bbf8473e30998981f2ed40b3fcffa, O_RDWR) failed: No such file or directory (2) in C:\xampp\htdocs\projects\ecom\resources\config.php on line 6
+[07-May-2018 06:11:03 America/Chicago] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp) in C:\xampp\htdocs\projects\ecom\resources\config.php on line 6
+[07-May-2018 06:11:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\projects\ecom\resources\config.php:26
+Stack trace:
+#0 C:\xampp\htdocs\projects\ecom\public\index.php(1): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\ecom\resources\config.php on line 26
+[07-May-2018 06:22:04 America/Chicago] PHP Warning:  session_start(): open(/tmp\sess_d47bbf8473e30998981f2ed40b3fcffa, O_RDWR) failed: No such file or directory (2) in C:\xampp\htdocs\projects\ecom\resources\config.php on line 6
+[07-May-2018 06:22:04 America/Chicago] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp) in C:\xampp\htdocs\projects\ecom\resources\config.php on line 6
+[07-May-2018 06:22:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\projects\ecom\resources\config.php:26
+Stack trace:
+#0 C:\xampp\htdocs\projects\ecom\public\index.php(1): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\ecom\resources\config.php on line 26
+[07-May-2018 06:26:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\projects\ecom\resources\config.php:26
+Stack trace:
+#0 C:\xampp\htdocs\projects\ecom\public\index.php(1): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\ecom\resources\config.php on line 26
+[07-May-2018 06:26:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\projects\ecom\resources\config.php:26
+Stack trace:
+#0 C:\xampp\htdocs\projects\ecom\public\index.php(1): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\ecom\resources\config.php on line 26
+[07-May-2018 06:26:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\projects\ecom\resources\config.php:26
+Stack trace:
+#0 C:\xampp\htdocs\projects\ecom\public\index.php(1): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\ecom\resources\config.php on line 26
+[07-May-2018 06:26:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_query() in C:\xampp\htdocs\projects\ecom\resources\functions.php:12
+Stack trace:
+#0 C:\xampp\htdocs\projects\ecom\resources\functions.php(83): query('SELECT * FROM c...')
+#1 C:\xampp\htdocs\projects\ecom\resources\templates\front\side_nav.php(6): get_categories()
+#2 C:\xampp\htdocs\projects\ecom\public\index.php(14): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\projects\ecom\resources\functions.php on line 12
+[07-May-2018 06:28:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_query() in C:\xampp\htdocs\projects\ecom\resources\functions.php:12
+Stack trace:
+#0 C:\xampp\htdocs\projects\ecom\resources\functions.php(144): query('SELECT * FROM p...')
+#1 C:\xampp\htdocs\projects\ecom\public\shop.php(25): get_product_in_shop_page()
+#2 {main}
+  thrown in C:\xampp\htdocs\projects\ecom\resources\functions.php on line 12
+[07-May-2018 06:29:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_query() in C:\xampp\htdocs\projects\ecom\resources\functions.php:12
+Stack trace:
+#0 C:\xampp\htdocs\projects\ecom\resources\functions.php(83): query('SELECT * FROM c...')
+#1 C:\xampp\htdocs\projects\ecom\resources\templates\front\side_nav.php(6): get_categories()
+#2 C:\xampp\htdocs\projects\ecom\public\index.php(14): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\projects\ecom\resources\functions.php on line 12
+[07-May-2018 06:29:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\projects\ecom\resources\config.php:26
+Stack trace:
+#0 C:\xampp\htdocs\projects\ecom\public\index.php(1): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\ecom\resources\config.php on line 26
+[07-May-2018 06:30:36 America/Chicago] PHP Warning:  session_start(): open(/tmp\sess_d47bbf8473e30998981f2ed40b3fcffa, O_RDWR) failed: No such file or directory (2) in C:\xampp\htdocs\projects\ecom\resources\config.php on line 6
+[07-May-2018 06:30:36 America/Chicago] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp) in C:\xampp\htdocs\projects\ecom\resources\config.php on line 6
+[07-May-2018 06:30:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\projects\ecom\resources\config.php:26
+Stack trace:
+#0 C:\xampp\htdocs\projects\ecom\public\index.php(1): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\ecom\resources\config.php on line 26
+[07-May-2018 06:31:03 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in C:\xampp\htdocs\projects\ecom\resources\config.php on line 6
+[07-May-2018 06:31:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\projects\ecom\resources\config.php:26
+Stack trace:
+#0 C:\xampp\htdocs\projects\ecom\public\contact.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\ecom\resources\config.php on line 26
+[07-May-2018 06:31:55 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in C:\xampp\htdocs\projects\ecom\resources\config.php on line 6
+[07-May-2018 06:31:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\projects\ecom\resources\config.php:26
+Stack trace:
+#0 C:\xampp\htdocs\projects\ecom\public\contact.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\ecom\resources\config.php on line 26
+[07-May-2018 06:31:58 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in C:\xampp\htdocs\projects\ecom\resources\config.php on line 6
+[07-May-2018 06:31:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\projects\ecom\resources\config.php:26
+Stack trace:
+#0 C:\xampp\htdocs\projects\ecom\public\contact.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\ecom\resources\config.php on line 26
+[07-May-2018 06:31:59 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in C:\xampp\htdocs\projects\ecom\resources\config.php on line 6
+[07-May-2018 06:31:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\projects\ecom\resources\config.php:26
+Stack trace:
+#0 C:\xampp\htdocs\projects\ecom\public\contact.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\ecom\resources\config.php on line 26
+[07-May-2018 06:31:59 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in C:\xampp\htdocs\projects\ecom\resources\config.php on line 6
+[07-May-2018 06:31:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\projects\ecom\resources\config.php:26
+Stack trace:
+#0 C:\xampp\htdocs\projects\ecom\public\contact.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\ecom\resources\config.php on line 26
+[07-May-2018 06:50:55 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in C:\xampp\htdocs\projects\ecom\resources\config.php on line 6
+[07-May-2018 06:50:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\projects\ecom\resources\config.php:26
+Stack trace:
+#0 C:\xampp\htdocs\projects\ecom\public\contact.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\ecom\resources\config.php on line 26
+[07-May-2018 06:51:01 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in C:\xampp\htdocs\projects\ecom\resources\config.php on line 6
+[07-May-2018 06:51:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\projects\ecom\resources\config.php:26
+Stack trace:
+#0 C:\xampp\htdocs\projects\ecom\public\contact.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\ecom\resources\config.php on line 26
+[07-May-2018 06:53:46 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in C:\xampp\htdocs\projects\ecom\resources\config.php on line 6
+[07-May-2018 06:53:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\projects\ecom\resources\config.php:26
+Stack trace:
+#0 C:\xampp\htdocs\projects\ecom\public\contact.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\ecom\resources\config.php on line 26
+[07-May-2018 06:55:07 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in C:\xampp\htdocs\projects\ecom\resources\config.php on line 5
+[07-May-2018 06:55:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\projects\ecom\resources\config.php:25
+Stack trace:
+#0 C:\xampp\htdocs\projects\ecom\public\contact.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\ecom\resources\config.php on line 25
+[07-May-2018 06:57:12 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in C:\xampp\htdocs\projects\ecom\resources\config.php on line 5
+[07-May-2018 06:57:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\xampp\htdocs\projects\ecom\resources\config.php:25
+Stack trace:
+#0 C:\xampp\htdocs\projects\ecom\public\contact.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\ecom\resources\config.php on line 25
